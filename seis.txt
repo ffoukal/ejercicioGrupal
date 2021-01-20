@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Archivo seis 
 
 Modificación de Jose
 
 El cuerpo no es más que un medio de volverse temporalmente visible. Todo nacimiento es una aparición.
+=======
+Archivo seis
+
+Lo mejor que podemos hacer por otro no es sólo compartir con él nuestras riquezas, sino mostrarle las suyas.
+>>>>>>> 919b6084cc7bb87baf029052c68a525a9afc8a3d

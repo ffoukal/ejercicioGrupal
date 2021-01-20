@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 archivo dos modificado
+=======
+archivo dos
+
+No estimes el dinero en más ni en menos de lo que vale, porque es un buen siervo y un mal amo.
+
+>>>>>>> 919b6084cc7bb87baf029052c68a525a9afc8a3d
