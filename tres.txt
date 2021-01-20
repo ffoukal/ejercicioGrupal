@@ -1,3 +1,7 @@
 archivo tres
+<<<<<<< HEAD
 
 Posuere rutrum scelerisque torquent tempor ultrices inceptos molestie semper pharetra quis, ante pretium ullamcorper cum nisi nibh sagittis mollis mattis, vestibulum phasellus quam enim nulla metus mus convallis odio. Quis sodales vulputate senectus justo ligula urna feugiat semper phasellus, gravida luctus aenean vitae non blandit morbi est dapibus vel, praesent donec fames placerat inceptos nibh euismod molestie. Placerat iaculis volutpat maecenas quam porta montes vel, sed justo potenti lobortis fusce enim, sollicitudin metus pellentesque pretium lacinia tortor.
+=======
+El hombre que ha cometido un error y no lo corrige comete otro error mayor.
+>>>>>>> 2f7b01f259d973199d99a1045e4be16218ff2e58
